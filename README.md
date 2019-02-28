@@ -123,8 +123,8 @@ Please discuss your manuscript early and often on the Slack channel assigned to 
 
 #### Get it done
 
-Submit revised manuscripts by **1 August, 2018**. To submit your manuscript:
+Submit revised manuscripts by **1 August, 2019**. To submit your manuscript:
 
-1. Rename the folder `gptp2018-chapter` to `gptp2018-chapter-YOURNAMEHERE`
+1. Rename the folder `gptp2018-chapter` to `gptp2019-chapter-YOURNAMEHERE`
 2. zip the entire folder, and all contents
-3. Email this zip file to Wolfgang (banzhafw@msu.edu) as attachment. You can also upload it to the Slack channel assigned to it, 'Contributions 2018' (just drag it onto the channel input box!). 
+3. Email this zip file to Wolfgang (banzhafw@msu.edu) as attachment. You can also upload it to the Slack channel assigned to it, 'Contributions 2019' (just drag it onto the channel input box!). 
