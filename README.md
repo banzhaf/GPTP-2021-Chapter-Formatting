@@ -7,7 +7,7 @@ This repository includes all the files you will need for preparing your GPTP 201
 
 ### Note
 
-This is essentially a copy of last year's procedure. This year for now, Wolfgang will be again the main point of contact, but maybe that will change after the workshop. Please take a moment to read through.
+This is essentially a copy of last year's procedure. The gptp2017-latex-master is still the relevant directory here. This year for now, Wolfgang will be again the main point of contact, but maybe that will change after the workshop. Please take a moment to read through.
 
 ## Timeline
 
