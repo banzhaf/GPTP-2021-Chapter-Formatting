@@ -7,21 +7,21 @@ This repository includes all the files you will need for preparing your GPTP 202
 
 ### Note
 
-This is essentially a copy of recent years' procedure. The gptp2017-latex-master is still the relevant directory here. This year for now, Wolfgang will be again the main point of contact, but maybe that will change after the workshop. Please take a moment to read through.
+This is essentially a copy of recent years' procedure. Wolfgang will be again the main point of contact, but maybe that will change after the workshop. Please take a moment to read through.
 
 ## Timeline
 
 1. Revised manuscripts are due on August 1, 2021
 2. Copy editing will be done internally by editors during summer/early fall.
 3. Manuscripts will be returned to the author(s) as copy-editing is completed. Note this will involve _actual [copy editing](https://en.wikipedia.org/wiki/Copy_editing)_ and thus there may be important clarifications and improvements asked before the manuscript is complete.
-4. Ideally, all manuscript work should be complete (including changes made in response to copy editing) by September 1, 2019.
+4. Ideally, all manuscript work should be complete (including changes made in response to copy editing) by September 1, 2021.
 5. Book is to be submitted by September 1, 2021 to Springer. 
 
 ## Simple start
 
 Just to make sure everything is set up correctly on your machine:
 
-1. You can clone or download this repository; unzip it if necessary. Alternatively, you can download the latex format/instructions/template from Springer directly and properly name your chapter. 
+1. Download the latex format/instructions/template from Springer directly and properly name your chapter. 
 2. Navigate to the folder created, and then to `gptp2021-chapter`. 
 3. Open the file `author.tex` in your LaTeX editor of choice
 4. Render the document (all dependencies used by the example chapter, including images and references, are already here in this directory)
