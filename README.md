@@ -3,7 +3,7 @@ Describes the formatting of chapters for the GPTP 2021 Book. Authors, please con
 
 ## GPTP-2021 Proceedings Volume chapter preparation
 
-This repository includes all the files you will need for preparing your GPTP 2021 Proceedings Volume chapter—including a template you should edit to include your chapter's text—except for image and BibTeX files you will need to provide. You can also go to Springer's website (https://www.springer.com/gp/authors-editors/book-authors-editors/your-publication-journey/manuscript-preparation), and download the LaTeX template for contributing books.
+This repository includes all the files you will need for preparing your GPTP 2021 Proceedings Volume chapter—including a template you should edit to include your chapter's text—except for image and BibTeX files you will need to provide. You can also go to Springer's website (https://www.springer.com/gp/authors-editors/book-authors-editors/your-publication-journey/manuscript-preparation), (https://www.springer.com/gp/authors-editors/book-authors-editors/your-publication-journey/manuscript-preparation#c3324) and download the LaTeX template for contributing books.
 
 ### Note
 
